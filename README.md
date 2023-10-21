@@ -32,6 +32,7 @@ Password: 2222
 
 [Bankist App](https://constantinraulivan.github.io/bankistapp/)
 
+
 # The purpose of the application in the learning process
 
 The purpose of the application in the learning process:
