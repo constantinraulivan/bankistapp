@@ -22,10 +22,10 @@ I created this application as part of the course 'The Complete JavaScript Course
 In the application, there are 2 registered accounts:
 
 - Account 1 Credentials:
-User: js
+User: js |
 Password: 1111
 - Account 2 Credentials:
-User: jd
+User: jd |
 Password: 2222
 
 # Live
