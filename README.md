@@ -35,8 +35,6 @@ Password: 2222
 
 # The purpose of the application in the learning process
 
-The purpose of the application in the learning process:
-
 This application has significantly enhanced my understanding of JavaScript, particularly in terms of working with strings, arrays and dates in JavaScript.
 
 In addition to mastering various strings, arrays and dates manipulation methods, I have also learned how to create a timer and gained some proficiency in DOM manipulation.
