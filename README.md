@@ -4,19 +4,8 @@ It is a web application that simulates a banking application. Similar to any ban
 
 I created this application as part of the course 'The Complete JavaScript Course 2023: From Zero to Expert!' Specifically, I built all the application's features from scratch using the JavaScript programming language.
 
-![image](https://github.com/constantinraulivan/bankistapp/assets/108687645/1357cec3-333a-499f-9d06-b56fb7df73eb)
+![image](https://github.com/constantinraulivan/bankistapp/assets/108687645/e62d75b1-6bd4-4e69-b866-18e0596a4ed2)
 
-
-# Main functionalities
-
-- Login System
-- Ability to Delete Your Account
-- You can transfer money to other accounts
-- You can request loans
-- There is a timer that will log you out if there is no activity in the application
-- Personalized text with the username and the date of login or when a transfer/bank loan request was made
-- The account balance is calculated automatically (as well as all bank withdrawals/deposits and interest)
-- All transfers can be sorted
 
 # Instructions
 In the application, there are 2 registered accounts:
@@ -31,6 +20,18 @@ Password: 2222
 # Live
 
 [Bankist App](https://constantinraulivan.github.io/bankistapp/)
+
+
+# Main functionalities
+
+- Login System
+- Ability to Delete Your Account
+- You can transfer money to other accounts
+- You can request loans
+- There is a timer that will log you out if there is no activity in the application
+- Personalized text with the username and the date of login or when a transfer/bank loan request was made
+- The account balance is calculated automatically (as well as all bank withdrawals/deposits and interest)
+- All transfers can be sorted
 
 
 # The purpose of the application in the learning process
